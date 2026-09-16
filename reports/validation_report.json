@@ -1,0 +1,387 @@
+{
+  "balance_reconciliation": [
+    {
+      "doc_id": "6493e4372f502414800f8164",
+      "assets": 638962,
+      "liabilities_plus_equity": 638962,
+      "difference": 0,
+      "within_one_printed_unit": true
+    },
+    {
+      "doc_id": "6543d3fd08093cdace058668",
+      "assets": 638554,
+      "liabilities_plus_equity": 638554,
+      "difference": 0,
+      "within_one_printed_unit": true
+    },
+    {
+      "doc_id": "67458f18cea78a70070fa226",
+      "assets": 866478,
+      "liabilities_plus_equity": 866478,
+      "difference": 0,
+      "within_one_printed_unit": true
+    },
+    {
+      "doc_id": "63e8ebbb54febda17c19ee7c",
+      "assets": 3500529,
+      "liabilities_plus_equity": 3500529,
+      "difference": 0,
+      "within_one_printed_unit": true
+    },
+    {
+      "doc_id": "63e8ebbb54febda17c19ee7d",
+      "assets": 4823303,
+      "liabilities_plus_equity": 4823303,
+      "difference": 0,
+      "within_one_printed_unit": true
+    },
+    {
+      "doc_id": "63e8ebbb54febda17c19ee7e",
+      "assets": 6233746,
+      "liabilities_plus_equity": 6233746,
+      "difference": 0,
+      "within_one_printed_unit": true
+    },
+    {
+      "doc_id": "63e2481c916269756a09542b",
+      "assets": 6899412,
+      "liabilities_plus_equity": 6899412,
+      "difference": 0,
+      "within_one_printed_unit": true
+    },
+    {
+      "doc_id": "65a4095d5fd178b16b09b860",
+      "assets": 10174922,
+      "liabilities_plus_equity": 10174922,
+      "difference": 0,
+      "within_one_printed_unit": true
+    },
+    {
+      "doc_id": "63e13943526e1f30cd100db5",
+      "assets": 1807858,
+      "liabilities_plus_equity": 1807858,
+      "difference": 0,
+      "within_one_printed_unit": true
+    },
+    {
+      "doc_id": "63e13943526e1f30cd100db6",
+      "assets": 1717114,
+      "liabilities_plus_equity": 1717114,
+      "difference": 0,
+      "within_one_printed_unit": true
+    },
+    {
+      "doc_id": "66cd893cedec9b09d50191e8",
+      "assets": 1689390,
+      "liabilities_plus_equity": 1689390,
+      "difference": 0,
+      "within_one_printed_unit": true
+    },
+    {
+      "doc_id": "63e881158be6eb9f9d1ff975",
+      "assets": 945632,
+      "liabilities_plus_equity": 945632,
+      "difference": 0,
+      "within_one_printed_unit": true
+    },
+    {
+      "doc_id": "65784e5da67d84faf4042736",
+      "assets": 1014105,
+      "liabilities_plus_equity": 1014105,
+      "difference": 0,
+      "within_one_printed_unit": true
+    },
+    {
+      "doc_id": "68f0a715f28d8aaf48046416",
+      "assets": 1135864,
+      "liabilities_plus_equity": 1135864,
+      "difference": 0,
+      "within_one_printed_unit": true
+    }
+  ],
+  "temporal_comparisons": [
+    {
+      "older": "6493e4372f502414800f8164",
+      "newer": "6543d3fd08093cdace058668",
+      "field_key": "BS_TOTAL_ASSETS_FRGAAP",
+      "comparative_date": "2021-08-31",
+      "older_value": 638962,
+      "newer_comparative_value": 638962,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "6493e4372f502414800f8164",
+      "newer": "6543d3fd08093cdace058668",
+      "field_key": "BS_TOTAL_EQUITY_FRGAAP",
+      "comparative_date": "2021-08-31",
+      "older_value": 322009,
+      "newer_comparative_value": 322009,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "6493e4372f502414800f8164",
+      "newer": "6543d3fd08093cdace058668",
+      "field_key": "BS_CAPITAL_EQUITY_FRGAAP",
+      "comparative_date": "2021-08-31",
+      "older_value": 10000,
+      "newer_comparative_value": 10000,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "6493e4372f502414800f8164",
+      "newer": "6543d3fd08093cdace058668",
+      "field_key": "BS_CASH_CURRENT_ASSET_FRGAAP",
+      "comparative_date": "2021-08-31",
+      "older_value": 307199,
+      "newer_comparative_value": 307199,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "6543d3fd08093cdace058668",
+      "newer": "67458f18cea78a70070fa226",
+      "field_key": "BS_TOTAL_ASSETS_FRGAAP",
+      "comparative_date": "2022-08-31",
+      "older_value": 638554,
+      "newer_comparative_value": 638554,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "6543d3fd08093cdace058668",
+      "newer": "67458f18cea78a70070fa226",
+      "field_key": "BS_TOTAL_EQUITY_FRGAAP",
+      "comparative_date": "2022-08-31",
+      "older_value": 438221,
+      "newer_comparative_value": 438221,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "6543d3fd08093cdace058668",
+      "newer": "67458f18cea78a70070fa226",
+      "field_key": "BS_CAPITAL_EQUITY_FRGAAP",
+      "comparative_date": "2022-08-31",
+      "older_value": 150000,
+      "newer_comparative_value": 150000,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "6543d3fd08093cdace058668",
+      "newer": "67458f18cea78a70070fa226",
+      "field_key": "BS_CASH_CURRENT_ASSET_FRGAAP",
+      "comparative_date": "2022-08-31",
+      "older_value": 175359,
+      "newer_comparative_value": 175359,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "63e8ebbb54febda17c19ee7c",
+      "newer": "63e8ebbb54febda17c19ee7d",
+      "field_key": "BS_TOTAL_EQUITY_FRGAAP",
+      "comparative_date": "2020-06-30",
+      "older_value": 2365051,
+      "newer_comparative_value": 2365051,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "63e8ebbb54febda17c19ee7c",
+      "newer": "63e8ebbb54febda17c19ee7d",
+      "field_key": "BS_CAPITAL_EQUITY_FRGAAP",
+      "comparative_date": "2020-06-30",
+      "older_value": 152500,
+      "newer_comparative_value": 152500,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "63e8ebbb54febda17c19ee7d",
+      "newer": "63e8ebbb54febda17c19ee7e",
+      "field_key": "BS_TOTAL_EQUITY_FRGAAP",
+      "comparative_date": "2021-06-30",
+      "older_value": 2816959,
+      "newer_comparative_value": 2816960,
+      "difference_in_base_unit": 1,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "63e8ebbb54febda17c19ee7d",
+      "newer": "63e8ebbb54febda17c19ee7e",
+      "field_key": "BS_CAPITAL_EQUITY_FRGAAP",
+      "comparative_date": "2021-06-30",
+      "older_value": 152500,
+      "newer_comparative_value": 152500,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "63e8ebbb54febda17c19ee7d",
+      "newer": "63e8ebbb54febda17c19ee7e",
+      "field_key": "BS_CASH_CURRENT_ASSET_FRGAAP",
+      "comparative_date": "2021-06-30",
+      "older_value": 2151560,
+      "newer_comparative_value": 2151560,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "65a4095d5fd178b16b09b860",
+      "newer": "6860f28ca0138eae340c7453",
+      "field_key": "PL_REVENUE_FRGAAP",
+      "comparative_date": "2022-06-30",
+      "older_value": 7362279,
+      "newer_comparative_value": 7362279,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "65a4095d5fd178b16b09b860",
+      "newer": "6860f28ca0138eae340c7453",
+      "field_key": "PL_PERSONNEL_COSTS_FRGAAP",
+      "comparative_date": "2022-06-30",
+      "older_value": 1943291,
+      "newer_comparative_value": 1943291,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "65a4095d5fd178b16b09b860",
+      "newer": "6860f28ca0138eae340c7453",
+      "field_key": "PL_EXT_SERVICES_COSTS_FRGAAP",
+      "comparative_date": "2022-06-30",
+      "older_value": 928188,
+      "newer_comparative_value": 928188,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "65a4095d5fd178b16b09b860",
+      "newer": "6860f28ca0138eae340c7453",
+      "field_key": "PL_DEPRECIATION_AMORTIZATION_FRGAAP",
+      "comparative_date": "2022-06-30",
+      "older_value": 267890,
+      "newer_comparative_value": 267890,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    },
+    {
+      "older": "65a4095d5fd178b16b09b860",
+      "newer": "6860f28ca0138eae340c7453",
+      "field_key": "PL_INCOME_TAX_FRGAAP",
+      "comparative_date": "2022-06-30",
+      "older_value": 621467,
+      "newer_comparative_value": 621467,
+      "difference_in_base_unit": 0,
+      "within_rounding_tolerance": true,
+      "note": "Units converted only for validation, never for emitted values."
+    }
+  ],
+  "temporal_coverage": [
+    {
+      "siren": "328024377",
+      "filings_considered": 3,
+      "comparisons_with_explicit_dates": 5,
+      "reason_for_unchecked_pairs": "Only explicitly dated comparative cells are compared. Missing intervening fiscal years, missing N-1 columns, blank cells and unreadable date headers are not inferred."
+    },
+    {
+      "siren": "401009741",
+      "filings_considered": 3,
+      "comparisons_with_explicit_dates": 0,
+      "reason_for_unchecked_pairs": "Only explicitly dated comparative cells are compared. Missing intervening fiscal years, missing N-1 columns, blank cells and unreadable date headers are not inferred."
+    },
+    {
+      "siren": "445070311",
+      "filings_considered": 3,
+      "comparisons_with_explicit_dates": 5,
+      "reason_for_unchecked_pairs": "Only explicitly dated comparative cells are compared. Missing intervening fiscal years, missing N-1 columns, blank cells and unreadable date headers are not inferred."
+    },
+    {
+      "siren": "504304205",
+      "filings_considered": 3,
+      "comparisons_with_explicit_dates": 0,
+      "reason_for_unchecked_pairs": "Only explicitly dated comparative cells are compared. Missing intervening fiscal years, missing N-1 columns, blank cells and unreadable date headers are not inferred."
+    },
+    {
+      "siren": "820561470",
+      "filings_considered": 3,
+      "comparisons_with_explicit_dates": 8,
+      "reason_for_unchecked_pairs": "Only explicitly dated comparative cells are compared. Missing intervening fiscal years, missing N-1 columns, blank cells and unreadable date headers are not inferred."
+    }
+  ],
+  "order_of_magnitude_flags": [],
+  "note": "These are consistency proxies, not measured extraction accuracy. Rounding differences and real disagreements are retained.",
+  "expected_documents": 15,
+  "processed_documents": 15,
+  "pages_processed": 415,
+  "fields_emitted": 117,
+  "coverage_by_field": {
+    "BS_TOTAL_ASSETS_FRGAAP": 14,
+    "BS_TOTAL_EQUITY_FRGAAP": 12,
+    "BS_CAPITAL_EQUITY_FRGAAP": 15,
+    "BS_CASH_CURRENT_ASSET_FRGAAP": 15,
+    "PL_PERSONNEL_COSTS_FRGAAP": 10,
+    "PL_EXT_SERVICES_COSTS_FRGAAP": 10,
+    "PL_FINANCIAL_RESULTS_FRGAAP": 8,
+    "PL_INCOME_TAX_FRGAAP": 9,
+    "META_AVG_WORKFORCE_FRGAAP": 5,
+    "PL_REVENUE_FRGAAP": 9,
+    "PL_DEPRECIATION_AMORTIZATION_FRGAAP": 9,
+    "PL_COGS_FRGAAP": 1
+  },
+  "coverage_by_document": {
+    "6493e4372f502414800f8164": 4,
+    "6543d3fd08093cdace058668": 4,
+    "67458f18cea78a70070fa226": 4,
+    "63e8ebbb54febda17c19ee7c": 9,
+    "63e8ebbb54febda17c19ee7d": 11,
+    "63e8ebbb54febda17c19ee7e": 11,
+    "63e2481c916269756a09542b": 8,
+    "65a4095d5fd178b16b09b860": 8,
+    "6860f28ca0138eae340c7453": 8,
+    "63e13943526e1f30cd100db5": 11,
+    "63e13943526e1f30cd100db6": 9,
+    "66cd893cedec9b09d50191e8": 5,
+    "63e881158be6eb9f9d1ff975": 11,
+    "65784e5da67d84faf4042736": 10,
+    "68f0a715f28d8aaf48046416": 4
+  },
+  "structural_errors": [],
+  "document_failures": [],
+  "run": {
+    "cost_eur_per_page": 0.0,
+    "cost_total_eur": 0.0,
+    "seconds_per_page": 0.015260536626475044,
+    "pages_processed": 415,
+    "model": "provided OCR + deterministic local rules",
+    "notes": "Measured with perf_counter: discovery, PDF/OCR loading, extraction, structural and domain validation. Excludes installation, download, manual/visual QA and final report serialization. Zero marginal API cost; hardware, storage and upstream OCR cost are not estimated. Field content is deterministic; measured timings vary.",
+    "total_seconds": 6.333122699987143,
+    "stages": {
+      "load_seconds": 5.622878200141713,
+      "extract_seconds": 0.35504649992799386,
+      "validation_seconds": 0.027826400008052588
+    }
+  }
+}

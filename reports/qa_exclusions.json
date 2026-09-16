@@ -1,0 +1,17 @@
+{
+  "about": "Explicit visual-QA rejection list. No corrected or hardcoded financial values are supplied. Source PDFs and OCR remain unchanged.",
+  "exclusions": [
+    {
+      "doc_id": "6860f28ca0138eae340c7453",
+      "component": "assets",
+      "page": 9,
+      "reason": "Visual review of the black total row found leading digits missing from the OCR. The remaining numeric fragments form a plausible but incomplete amount. Omit until a new OCR pass recovers the whole cell."
+    },
+    {
+      "doc_id": "6860f28ca0138eae340c7453",
+      "component": "liabilities",
+      "page": 9,
+      "reason": "Visual review found the leading digits of the total missing or recognized as O. This is not a safe independent reconciliation reference."
+    }
+  ]
+}
