@@ -1,0 +1,13 @@
+{
+  "checked_files": 27,
+  "credential_pattern_findings": [],
+  "dotenv_present": false,
+  "dotenv_ignored": true,
+  "upstream_data_schemas_tools_unchanged": true,
+  "tests_passed": 45,
+  "ruff_check": "passed",
+  "official_schema_validation": "passed",
+  "single_document_cli_smoke_test": "passed",
+  "visual_audit_fingerprint_regression": "passed",
+  "notes": "Static pattern scan, not a guarantee that every possible credential format is detectable. No secrets were requested or used by the runtime."
+}
