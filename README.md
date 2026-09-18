@@ -127,4 +127,8 @@ I used Codex for pipeline design and implementation, tests, debugging and docume
 - [Coverage and measured runtime](reports/summary.md)
 - [Validation report](reports/validation_report.json) and [extraction diagnostics](reports/diagnostics.json)
 
+## Video
+
+https://youtu.be/HKJc607aMBM
+
 The source corpus and challenge files come from upstream revision `a705bcc86614c8552cc4270c762a6a6399c751ba`.
